@@ -1,0 +1,26 @@
+{
+  "name": "Valores Mãe",
+  "short_name": "Valores Mãe",
+  "description": "Controle de abatimento de parcelas",
+  "start_url": "/controle_parcelas/",
+  "scope": "/controle_parcelas/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f8",
+  "theme_color": "#2563eb",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%232563eb'/%3E%3Ctext x='96' y='126' font-size='110' text-anchor='middle' fill='%23fff' font-family='sans-serif'%3E%F0%9F%92%B0%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%232563eb'/%3E%3Ctext x='256' y='336' font-size='290' text-anchor='middle' fill='%23fff' font-family='sans-serif'%3E%F0%9F%92%B0%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
